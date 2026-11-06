@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /agent/
+Disallow: /account.php
+Disallow: /checkout.php
+Disallow: /book.php
+Disallow: /change-password.php
+Disallow: /reset-password.php
+Disallow: /forgot-password.php
+Disallow: /verify-email.php
+
+Sitemap: /sitemap.php
